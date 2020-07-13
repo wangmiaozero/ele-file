@@ -4,7 +4,7 @@
  * @Autor: wangmiao
  * @Date: 2020-07-13 20:40:00
  * @LastEditors: wangmiao
- * @LastEditTime: 2020-07-13 20:48:41
+ * @LastEditTime: 2020-07-13 20:58:08
 --> 
 <template>
   <div class="home">
@@ -21,6 +21,11 @@ export default {
   components: {
     FileComponents
   },
- 
+ data(){
+   return{}
+ },
+ methods:{
+   
+ }
 }
 </script>
